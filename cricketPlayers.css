@@ -1,0 +1,26 @@
+body,p
+&#123;
+	background&#45&#59;color&#58&#59; #247BA0&#59;
+	font&#45&#59;size&#58&#59; 25px&#59;
+	color&#58&#59; white&#59;
+&#125; 
+th
+&#123;
+	text&#45&#59;align&#58&#59; center&#59;
+	font&#45&#59;size&#58&#59; 20px&#59;
+	color&#58&#59; Black&#59;
+&#125;
+table,td,tr,th
+&#123;
+	border&#58&#59; 5px solid black&#59;
+&#125;
+img
+&#123;
+	width&#58&#59;65%&#59;
+	display&#58&#59; block&#59;
+	margin&#58&#59; auto
+&#125;
+h1
+&#123;
+	text&#45&#59;align&#58&#59; center&#59;
+&#125;

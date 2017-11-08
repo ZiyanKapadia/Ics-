@@ -1,0 +1,35 @@
+body,p
+&#123;
+	background&#45&#59;color&#58&#59; SpermWhite&#59;
+	font&#45&#59;size&#58&#59; 25px&#59;
+	color&#58&#59; blue&#59;
+&#125; 
+.tr01
+&#123;
+	background&#45&#59;color&#58&#59;#8A2BE2&#59;
+	color&#58&#59;white&#59;
+	font&#45&#59;weight&#58&#59;900&#59;
+	border&#45&#59;color&#58&#59;#8A2BE2&#59;
+&#125;
+.tr02
+&#123;
+	background&#45&#59;color&#58&#59;#8A2BE2&#59;
+	color&#58&#59;white&#59;
+	font&#45&#59;weight&#58&#59;900&#59;
+	border&#45&#59;color&#58&#59;#8A2BE2&#59;
+&#125;
+table
+&#123;
+	width&#58&#59;70%&#59;
+&#125;
+.tr03
+&#123;
+	background&#45&#59;color&#58&#59;#8A2BE2&#59;
+	color&#58&#59;white&#59;
+	font&#45&#59;weight&#58&#59;900&#59;
+	border&#45&#59;color&#58&#59;#8A2BE2&#59;
+&#125;
+h1
+&#123;
+	text&#45&#59;align&#58&#59; center&#59;
+&#125;
